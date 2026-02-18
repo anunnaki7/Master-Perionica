@@ -521,11 +521,11 @@ const HeroSection = ({ isLoaded }: { isLoaded: boolean }) => {
 const ClientGrid = () => {
   const clients = [
     'Auto Makiš', 'Bella Napoli', 'Beograd na Vatri', 'Dak', 'Durmitor', 'Dream',
-    'Gallo Nero', 'Garden Vista', 'Infinity', 'Milina Kafanica', 'Kod Kapetan',
-    'Kovač', 'Kuća Boema', 'Mamas Bistro', 'Marinada', 'Milagro', 
+    'Gallo Nero', 'Garden Vista', 'Infinity', 'Milina Kafanica', 'Kod Kapetan\'a',
+    'Kovač', 'Kuća Boema', 'Mama\'s Bistro', 'Marinada', 'Milagro', 
     'Moon.ze', 'Nišava', 'Pane E Vino', 'Panta Rei', 'Pietra Terrazza', 'Potpis',
-    'Sakura', 'Salaš Vinarija Zvonko Bogdan', 'Stara Trojka', 'Srpska trpeza', 'Sushi Dream', 
-    'Šaran', 'Vasiljević Kafanica', 'Voz'
+    'Sakura', 'Salaš Vinarije Zvonko Bogdan', 'Stara Trojka', 'Srpska trpeza', 'Sushi Dream', 
+    'Šaran', 'Vasiljević Kijevo', 'Kafanica', 'Voz'
   ];
 
   return (
@@ -613,7 +613,7 @@ const ClientGrid = () => {
           className="mt-16 text-center"
         >
           <a
-            href="tel:+381636640418"
+            href="tel:+38163640418"
             className="inline-flex items-center gap-3 px-6 py-3 bg-gradient-to-r from-blue-600 to-blue-700 text-white rounded-full font-semibold shadow-lg shadow-blue-500/25 hover:shadow-xl transition-all"
           >
             <span className="text-blue-100">Pridružite se liderima —</span>
