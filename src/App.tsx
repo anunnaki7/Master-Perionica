@@ -559,6 +559,7 @@ const ClientGrid = () => {
           </h2>
           <p className="text-gray-600 text-lg md:text-xl max-w-2xl mx-auto">
             Više od 30 najuglednijih restorana poverava nam svakodnevnu brigu o stolnacima, salvetama i posteljini
+            <span className="block mt-2 text-blue-600 font-medium">10+ apartmana peremo</span>
           </p>
         </motion.div>
 
