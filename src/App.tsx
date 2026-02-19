@@ -523,7 +523,7 @@ const ClientGrid = () => {
     'Auto Makiš', 'Bella Napoli', 'Beograd na Vatri', 'Dak', 'Durmitor', 'Dream',
     'Gallo Nero', 'Garden Vista', 'Infinity', 'Milina Kafanica', 'Kod Kapetana',
     'Kovač', 'Kuća Boema', 'Kesten', 'Mama\'s Bistro', 'Marinada', 'Milagro', 
-    'Milinina Kafanica', 'Moon.ze', 'Nišava', 'Pane E Vino', 'Panta Rei', 'Pietra Terrazza', 'Potpis',
+    'Moon.ze', 'Nišava', 'Pane E Vino', 'Panta Rei', 'Pietra Terrazza', 'Potpis',
     'Sakura', 'Salaš Vinarije Zvonko Bogdan', 'Stara Trojka', 'Srpska trpeza', 'Sushi Dream', 
     'Šaran', 'Vasiljević Kijevo', 'Veliko Srce', 'Voz'
   ];
