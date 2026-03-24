@@ -181,3 +181,101 @@ Ensure you have the following installed on your machine:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/anunnaki7/Master-Perionica.git
+
+2.Navigate to the project directory
+   cd Master-Perionica
+
+3.Install dependencies
+   npm install
+
+Running Locally
+# Development mode (with hot-reload)
+npm run dev
+
+# Build for production
+npm run build
+
+# Start production server
+npm run start
+
+# Lint the code
+npm run lint
+
+Open http://localhost:3000 in your browser to see the result.
+
+<br />
+📁 Project Structure
+Master-Perionica/
+├── public/                 # Static assets (images, icons, fonts)
+│   ├── images/             # Optimized image files
+│   └── favicon.ico         # Site favicon
+├── src/                    # Source code
+│   ├── app/                # Next.js App Router pages
+│   │   ├── layout.tsx      # Root layout
+│   │   ├── page.tsx        # Home page
+│   │   └── globals.css     # Global styles
+│   ├── components/         # Reusable UI components
+│   │   ├── Header.tsx      # Navigation header
+│   │   ├── Hero.tsx        # Hero section
+│   │   ├── Services.tsx    # Services section
+│   │   ├── Pricing.tsx     # Pricing section
+│   │   ├── Contact.tsx     # Contact section
+│   │   └── Footer.tsx      # Footer component
+│   ├── lib/                # Utility functions & helpers
+│   └── styles/             # Additional style files
+├── .eslintrc.json          # ESLint configuration
+├── .gitignore              # Git ignore rules
+├── next.config.js          # Next.js configuration
+├── tailwind.config.ts      # Tailwind CSS configuration
+├── tsconfig.json           # TypeScript configuration
+├── package.json            # Dependencies & scripts
+└── README.md               # You are here!
+
+<br />
+🌐 Deployment
+This project is deployed on Vercel — the platform built for Next.js.
+
+Deploy Your Own
+Deploy with Vercel
+
+Or deploy manually:
+# Install Vercel CLI
+npm i -g vercel
+
+# Deploy
+vercel --prod
+
+<br />
+🤝 Contributing
+Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions are greatly appreciated!
+1.🍴 Fork the Project
+2.🌿 Create your Feature Branch (git checkout -b feature/AmazingFeature)
+3.💾 Commit your Changes (git commit -m "feat: add AmazingFeature")
+4.📤 Push to the Branch (git push origin feature/AmazingFeature)
+5.🔃 Open a Pull Request
+
+💡 Tip: Check the issues page for a list of proposed features and known issues.
+
+<br />
+📄 License
+Distributed under the MIT License. See LICENSE for more information.
+
+<br />
+📬 Contact
+<div align="center">
+GitHub
+Portfolio</div><br />
+⭐ Support
+<div align="center">
+If you found this project useful, please consider giving it a ⭐ on GitHub!
+It helps others discover the project and motivates further development.
+
+Star this repo
+
+</div>
+<div align="center">
+Built with ❤️ and ☕ by @anunnaki7
+
+<sub>© 2024 Master Perionica. All rights reserved.</sub>
+
+</div> ```
