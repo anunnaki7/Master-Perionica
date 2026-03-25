@@ -14,7 +14,7 @@
 <br />
 
 <p align="center">
-  <strong>A modern, responsive, and visually stunning website for a premium car wash service.</strong>
+  <strong>A modern, responsive, and visually stunning website for a premium laundry wash service.</strong>
   <br />
   Built with cutting-edge web technologies for blazing-fast performance and exceptional user experience.
 </p>
