@@ -74,9 +74,8 @@
 
 <div align="center">
 
-| 🖥️ Desktop View | 📱 Mobile View |
 |:---:|:---:|
-| ![Desktop](https://www.site-shot.com/cached_image/lpLdoigYEfGb-AJCrBEAAw) | ![Mobile](https://www.site-shot.com/cached_image/APUZ0CgZEfGe-gJCrBEAAw) |
+| ![Desktop](https://www.site-shot.com/cached_image/lpLdoigYEfGb-AJCrBEAAw) |
 
 </div>
 
