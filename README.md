@@ -74,7 +74,6 @@
 
 <div align="center">
 
-|:---:|:---:|
 | ![Desktop](https://www.site-shot.com/cached_image/lpLdoigYEfGb-AJCrBEAAw) |
 
 </div>
