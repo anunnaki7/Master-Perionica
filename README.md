@@ -242,7 +242,10 @@ Or deploy manually:
 npm i -g vercel
 
 # Deploy
+
+```bash
 vercel --prod
+
 
 <br />
 🤝 Contributing
