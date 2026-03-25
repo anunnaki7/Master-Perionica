@@ -202,35 +202,35 @@ npm run lint
 Open http://localhost:3000 in your browser to see the result.
 
 <br />
-###📁 Project Structure
-'''text
+### 📂 Project Structure
+
+```text
 Master-Perionica/
-├── public/                 # Static assets (images, icons, fonts)
-│   ├── images/             # Optimized image files
-│   └── favicon.ico         # Site favicon
-├── src/                    # Source code
-│   ├── app/                # Next.js App Router pages
-│   │   ├── layout.tsx      # Root layout
-│   │   ├── page.tsx        # Home page
-│   │   └── globals.css     # Global styles
-│   ├── components/         # Reusable UI components
-│   │   ├── Header.tsx      # Navigation header
-│   │   ├── Hero.tsx        # Hero section
-│   │   ├── Services.tsx    # Services section
-│   │   ├── Pricing.tsx     # Pricing section
-│   │   ├── Contact.tsx     # Contact section
-│   │   └── Footer.tsx      # Footer component
-│   ├── lib/                # Utility functions & helpers
-│   └── styles/             # Additional style files
-├── .eslintrc.json          # ESLint configuration
-├── .gitignore              # Git ignore rules
-├── next.config.js          # Next.js configuration
-├── tailwind.config.ts      # Tailwind CSS configuration
-├── tsconfig.json           # TypeScript configuration
-├── package.json            # Dependencies & scripts
-└── README.md               # You are here!
-'''
-<br />
+├── public/                # Static assets (images, icons, fonts)
+│   ├── images/            # Optimized image files
+│   └── favicon.ico        # Site favicon
+├── src/                   # Source code
+│   ├── app/               # Next.js App Router pages
+│   │   ├── layout.tsx     # Root layout
+│   │   ├── page.tsx       # Home page
+│   │   └── globals.css    # Global styles
+│   ├── components/        # Reusable UI components
+│   │   ├── Header.tsx     # Navigation header
+│   │   ├── Hero.tsx       # Hero section
+│   │   ├── Services.tsx   # Services section
+│   │   ├── Pricing.tsx    # Pricing section
+│   │   ├── Contact.tsx    # Contact section
+│   │   └── Footer.tsx     # Footer component
+│   ├── lib/               # Utility functions & helpers
+│   └── styles/            # Additional style files
+├── .eslintrc.json         # ESLint configuration
+├── .gitignore             # Git ignore rules
+├── next.config.js         # Next.js configuration
+├── tailwind.config.ts     # Tailwind CSS configuration
+├── tsconfig.json          # TypeScript configuration
+├── package.json           # Dependencies & scripts
+└── README.md              # You are here!
+
 🌐 Deployment
 This project is deployed on Vercel — the platform built for Next.js.
 
