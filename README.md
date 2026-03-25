@@ -267,8 +267,8 @@ Distributed under the MIT License.
 ## 📬 Contact
 
 <p align="center">
-  <a href="https://github.com/anunnaki7">GitHub</a> • 
-  <a href="#">Portfolio</a>
+  <a href="https://github.com/anunnaki7"><b>GitHub Profile</b></a> • 
+  <a href="https://lutovac.me"><b>Portfolio Website</b></a>
 </p>
 
 <p align="center">
