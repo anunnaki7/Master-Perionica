@@ -64,7 +64,7 @@
 
 ## ✨ About The Project
 
-**Master Perionica** is a professionally designed and developed website for a premium car wash service. The site showcases the business's services, pricing, location, and contact information with a clean, modern, and fully responsive design.
+**Master Perionica** is a professionally designed and developed website for a premium laundry wash service. The site showcases the business's services, pricing, location, and contact information with a clean, modern, and fully responsive design.
 
 > 🎯 **Goal:** Provide an intuitive and visually appealing online presence that converts visitors into customers.
 
