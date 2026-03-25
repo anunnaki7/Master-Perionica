@@ -243,19 +243,19 @@ npm i -g vercel
 
 # 🚀 Deploy
 
-Za produkciju pokrenite:
+To deploy to production, run the following command:
 `vercel --prod`
 
 ---
 
 ## 🤝 Contributing
-Contributions make the open-source community an amazing place to learn, inspire, and create.
+Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions are greatly appreciated!
 
-1. 🍴 Fork the Project
-2. 🌿 Create your Feature Branch
-3. 💾 Commit your Changes
-4. 📤 Push to the Branch
-5. 🔃 Open a Pull Request
+1. 🍴 **Fork the Project**
+2. 🌿 **Create your Feature Branch**
+3. 💾 **Commit your Changes**
+4. 📤 **Push to the Branch**
+5. 🔃 **Open a Pull Request**
 
 ---
 
@@ -265,6 +265,7 @@ Distributed under the MIT License.
 ---
 
 ## 📬 Contact
+
 <p align="center">
   <a href="https://github.com/anunnaki7">GitHub</a> • 
   <a href="#">Portfolio</a>
