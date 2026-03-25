@@ -266,17 +266,16 @@ Distributed under the MIT License.
 
 ## 📬 Contact
 
-<p align="center">
-  <a href="https://github.com/anunnaki7"><b>GitHub Profile</b></a> • 
-  <a href="https://lutovac.me"><b>Portfolio Website</b></a>
-</p>
+<div align="center">
 
-<p align="center">
-  ⭐ <b>Support</b><br>
-  If you found this project useful, please consider giving it a star!
-</p>
+[**GitHub Profile**](https://github.com/anunnaki7) • [**Portfolio Website**](https://lutovac.me)
 
-<p align="center">
-  Built with ❤️ by <b>@anunnaki7</b><br>
-  <sub>© 2024 Master Perionica. All rights reserved.</sub>
-</p>
+### ⭐ Support
+If you found this project useful, please consider giving it a star!
+
+**Star this repo**
+
+Built with ❤️ by **@anunnaki7**
+<sub>© 2024 Master Perionica. All rights reserved.</sub>
+
+</div>
