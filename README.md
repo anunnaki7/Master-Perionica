@@ -76,7 +76,7 @@
 
 | 🖥️ Desktop View | 📱 Mobile View |
 |:---:|:---:|
-| ![Desktop](https://img.shields.io/badge/Desktop-Responsive-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white) | ![Mobile](https://img.shields.io/badge/Mobile-Optimized-34A853?style=for-the-badge&logo=android&logoColor=white) |
+| ![Desktop](https://www.site-shot.com/cached_image/lpLdoigYEfGb-AJCrBEAAw) | ![Mobile](https://img.shields.io/badge/Mobile-Optimized-34A853?style=for-the-badge&logo=android&logoColor=white) |
 
 </div>
 
