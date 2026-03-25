@@ -241,43 +241,36 @@ Or deploy manually:
 # Install Vercel CLI
 npm i -g vercel
 
-# Deploy
+# 🚀 Deploy
 
 ```bash
 vercel --prod
 
-
-<br />
 🤝 Contributing
 Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions are greatly appreciated!
-1.🍴 Fork the Project
-2.🌿 Create your Feature Branch (git checkout -b feature/AmazingFeature)
-3.💾 Commit your Changes (git commit -m "feat: add AmazingFeature")
-4.📤 Push to the Branch (git push origin feature/AmazingFeature)
-5.🔃 Open a Pull Request
-
+1. 🍴 Fork the Project
+2. 🌿 Create your Feature Branch (git checkout -b feature/AmazingFeature)
+3. 💾 Commit your Changes (git commit -m "feat: add AmazingFeature")
+4. 📤 Push to the Branch (git push origin feature/AmazingFeature)
+5. 🔃 Open a Pull Request
 💡 Tip: Check the issues page for a list of proposed features and known issues.
 
-<br />
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
-
-<br />
 📬 Contact
 <div align="center">
-GitHub
-Portfolio</div><br />
-⭐ Support
-<div align="center">
-If you found this project useful, please consider giving it a ⭐ on GitHub!
-It helps others discover the project and motivates further development.
-
-Star this repo
-
+<a href="https://www.google.com/search?q=https://github.com/anunnaki7">GitHub</a> •
+<a href="#">Portfolio</a>
 </div>
+<br />
 <div align="center">
-Built with ❤️ and ☕ by @anunnaki7
-
+<h3>⭐ Support</h3>
+<p>If you found this project useful, please consider giving it a ⭐ on GitHub!<br />
+It helps others discover the project and motivates further development.</p>
+<b>Star this repo</b>
+</div>
+<br />
+<div align="center">
+<p>Built with ❤️ and ☕ by <b>@anunnaki7</b></p>
 <sub>© 2024 Master Perionica. All rights reserved.</sub>
-
-</div> ```
+</div>
