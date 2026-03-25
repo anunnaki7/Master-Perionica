@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚗💦 Master Perionica
+# 💦 Master Perionica
 
 ### Premium Laundry Wash Service Website
 
