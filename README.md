@@ -202,7 +202,8 @@ npm run lint
 Open http://localhost:3000 in your browser to see the result.
 
 <br />
-📁 Project Structure
+###📁 Project Structure
+'''text
 Master-Perionica/
 ├── public/                 # Static assets (images, icons, fonts)
 │   ├── images/             # Optimized image files
@@ -228,7 +229,7 @@ Master-Perionica/
 ├── tsconfig.json           # TypeScript configuration
 ├── package.json            # Dependencies & scripts
 └── README.md               # You are here!
-
+'''
 <br />
 🌐 Deployment
 This project is deployed on Vercel — the platform built for Next.js.
