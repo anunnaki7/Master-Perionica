@@ -2,7 +2,7 @@
 
 # 🚗💦 Master Perionica
 
-### Premium Car Wash Service Website
+### Premium Laundry Wash Service Website
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-master--perionica.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://master-perionica.vercel.app/)
 [![GitHub repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anunnaki7/Master-Perionica)
