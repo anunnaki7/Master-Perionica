@@ -273,4 +273,4 @@ Distributed under the MIT License.
 If you found this project useful, please consider giving it a star! **Star this repo**
 
 Built with ❤️ by **@anunnaki7**
-© 2024 Master Perionica. All rights reserved.
+© 2026 Master Perionica. All rights reserved.
