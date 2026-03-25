@@ -243,34 +243,39 @@ npm i -g vercel
 
 # 🚀 Deploy
 
-```bash
-vercel --prod
+Za produkciju pokrenite:
+`vercel --prod`
 
-🤝 Contributing
-Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions are greatly appreciated!
+---
+
+## 🤝 Contributing
+Contributions make the open-source community an amazing place to learn, inspire, and create.
+
 1. 🍴 Fork the Project
-2. 🌿 Create your Feature Branch (git checkout -b feature/AmazingFeature)
-3. 💾 Commit your Changes (git commit -m "feat: add AmazingFeature")
-4. 📤 Push to the Branch (git push origin feature/AmazingFeature)
+2. 🌿 Create your Feature Branch
+3. 💾 Commit your Changes
+4. 📤 Push to the Branch
 5. 🔃 Open a Pull Request
-💡 Tip: Check the issues page for a list of proposed features and known issues.
 
-📄 License
-Distributed under the MIT License. See LICENSE for more information.
-📬 Contact
-<div align="center">
-<a href="https://www.google.com/search?q=https://github.com/anunnaki7">GitHub</a> •
-<a href="#">Portfolio</a>
-</div>
-<br />
-<div align="center">
-<h3>⭐ Support</h3>
-<p>If you found this project useful, please consider giving it a ⭐ on GitHub!<br />
-It helps others discover the project and motivates further development.</p>
-<b>Star this repo</b>
-</div>
-<br />
-<div align="center">
-<p>Built with ❤️ and ☕ by <b>@anunnaki7</b></p>
-<sub>© 2024 Master Perionica. All rights reserved.</sub>
-</div>
+---
+
+## 📄 License
+Distributed under the MIT License.
+
+---
+
+## 📬 Contact
+<p align="center">
+  <a href="https://github.com/anunnaki7">GitHub</a> • 
+  <a href="#">Portfolio</a>
+</p>
+
+<p align="center">
+  ⭐ <b>Support</b><br>
+  If you found this project useful, please consider giving it a star!
+</p>
+
+<p align="center">
+  Built with ❤️ by <b>@anunnaki7</b><br>
+  <sub>© 2024 Master Perionica. All rights reserved.</sub>
+</p>
