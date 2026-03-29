@@ -74,7 +74,7 @@
 
 <div align="center">
 
-![Desktop](https://i.ibb.co/RTk0kdNp/IMG-4084.jpg) |
+![Website Screenshot](src/assets/screenshotperionica.png) |
 
 </div>
 
