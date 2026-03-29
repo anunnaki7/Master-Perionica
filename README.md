@@ -74,7 +74,7 @@
 
 <div align="center">
 
-![Desktop](https://www.site-shot.com/cached_image/sk-2wijwEfGizgJCrBEAAw) |
+![Desktop](https://ibb.co/607P7L8R) |
 
 </div>
 
