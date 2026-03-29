@@ -74,7 +74,7 @@
 
 <div align="center">
 
-![Website Screenshot](src/assets/screenshotperionica.png) |
+![Website Screenshot](src/assets/screenshootperionica.png) |
 
 </div>
 
